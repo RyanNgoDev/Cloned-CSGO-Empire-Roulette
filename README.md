@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Cloned CSGO Empire's Roulette
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This project is for learning and practicing purpose only
 
 ## Setup
 
